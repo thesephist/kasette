@@ -1,6 +1,6 @@
 # kasette
 
-![Kasette promo image](promo_images/440.png)
+![Kasette promo image](promo_images/920.png)
 
 Chrome extension to put YouTube videos on replay 📺
 
