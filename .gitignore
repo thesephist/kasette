@@ -60,4 +60,5 @@ typings/
 # Kasette custom stuff
 package-lock.json
 dist/
+.DS_Store
 
