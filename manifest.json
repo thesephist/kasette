@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
 
-    "name": "Kasette",
+    "name": "Kasette: Auto-Replay YouTube Videos",
     "description": "Chrome extension to put YouTube videos on replay",
-    "version": "1.0.1",
+    "version": "1.0.2",
 
     "browser_action": {
       "default_icon": "icons/browser_button.png",
