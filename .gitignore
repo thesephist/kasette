@@ -59,4 +59,5 @@ typings/
 
 # Kasette custom stuff
 package-lock.json
+dist/
 
