@@ -1,0 +1,22 @@
+body {
+    width: 240px;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+.toggleButton {
+    background: #C82506;
+    color: #fff;
+    border-radius: 3px;
+    display: block;
+    cursor: pointer;
+    padding: 6px 8px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 1.3em;
+    transition: opacity .2s;
+
+    &:hover {
+        opacity: .7;
+    }
+}
